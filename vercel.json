@@ -13,13 +13,3 @@
     }
   ]
 }
-{
-  "scripts": {
-    "build": "react-scripts build --legacy-peer-deps"
-  }
-}
-{
-  "scripts": {
-    "build": "react-scripts build"
-  }
-}
